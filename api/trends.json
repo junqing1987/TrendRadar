@@ -1,12 +1,67 @@
 {
-  "generated_at": "2026-05-26T07:16:20.369902+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-05-26T12:19:15.338802+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 50,
       "titles": [
+        {
+          "title": "伊朗最高领袖就医情况曝光",
+          "url": "https://news.ifeng.com/c/8tQQymaYbMG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
+        },
+        {
+          "title": "美军：在伊朗南部实施自卫打击",
+          "url": "https://www.cls.cn/detail/2381184",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
+        },
+        {
+          "title": "击落敌方无人机，伊朗：使用了新武器",
+          "url": "https://news.ifeng.com/c/8tQJBZmqYeW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
+        },
+        {
+          "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
+          "url": "https://wallstreetcn.com/articles/3773097",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
+        },
+        {
+          "title": "美军发动“自卫性”空袭伊朗，细节披露",
+          "url": "https://news.ifeng.com/c/8tQybAWR6Ya",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
+        },
         {
           "title": "美国与伊朗的草案协议允许免费开放霍尔木兹海峡，并清除水雷。 草案协议允许伊朗出售和出口石油。 草案协议规定继续进行核谈判，以达成长期共识。",
           "url": "https://wallstreetcn.com/livenews/3108978",
@@ -47,7 +102,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -171,6 +226,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 07时16分]"
+        },
+        {
+          "title": "伊朗：并非即将与美国达成协议，霍尔木兹海峡管理将是伊朗与阿曼之间的事务",
+          "url": "https://wallstreetcn.com/articles/3773045",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
         },
         {
           "title": "据悉伊朗将在协议达成后的30天内开放海峡，停火协议将延长60天",
@@ -314,7 +380,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -358,7 +424,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -380,7 +446,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -407,13 +473,24 @@
           "time_info": "03时54分"
         },
         {
+          "title": "以服务之名行管辖之实，伊朗的操作会否迎来效仿者？",
+          "url": "https://flash.jin10.com/detail/20260526111915263800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
           "title": "伊朗阿巴斯港传出爆炸声 媒体说无需担心",
           "url": "https://flash.jin10.com/detail/20260526053123872800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -435,7 +512,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -446,7 +523,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -457,7 +534,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -479,7 +556,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -498,7 +575,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
@@ -523,6 +600,17 @@
           "time_info": "[01时12分 ~ 03时54分]"
         },
         {
+          "title": "特朗普要求先签“亚伯拉罕协议”，沙特回应",
+          "url": "https://news.ifeng.com/c/8tQf0euzx96",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
+        },
+        {
           "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，金银齐涨",
           "url": "https://wallstreetcn.com/articles/3773010",
           "source": "华尔街见闻",
@@ -544,6 +632,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 07时16分]"
+        },
+        {
+          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
+          "url": "https://wallstreetcn.com/articles/3773076",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
+        },
+        {
+          "title": "美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解",
+          "url": "https://www.cls.cn/detail/2381211",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
         },
         {
           "title": "据AXIOS：一位美国高级官员透露，特朗普政府将支持以色列加大对真主党的军事打击力度。",
@@ -576,7 +686,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -587,7 +697,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -598,7 +708,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -609,7 +719,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -653,7 +763,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -675,7 +785,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -686,9 +796,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊朗谈判将持续几天。 特朗普说他要么达成一项好的协议，要么不达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3109132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "特朗普敦促沙特承认以色列，将其作为伊朗协议的一部分",
@@ -748,7 +869,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         }
@@ -794,6 +915,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek 连续多次降价？",
+          "url": "https://www.zhihu.com/question/2033335202307647295",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -804,7 +942,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         }
