@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T17:17:29.988956+08:00",
-  "total_titles_processed": 903,
+  "generated_at": "2026-05-31T19:45:24.123946+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 30,
       "titles": [
         {
           "title": "美国没收伊朗 10 亿美元加密货币资产，切断伊朗航空公司获取降落点、加油和售票的渠道，对局势有何影响？",
@@ -74,17 +74,6 @@
           "time_info": "[00时11分 ~ 08时09分]"
         },
         {
-          "title": "伊朗称过去24小时内有28艘船只经协调通过霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3111914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
           "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
           "url": "https://wallstreetcn.com/livenews/3111819",
           "source": "华尔街见闻-快讯",
@@ -96,6 +85,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时11分 ~ 08时09分]"
+        },
+        {
+          "title": "伊朗称过去24小时内有28艘船只经协调通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3111914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 19时45分]"
         },
         {
           "title": "伊朗官员：对伊朗的海上封锁终将结束",
@@ -119,8 +120,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 17时17分]"
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 19时45分]"
         },
         {
           "title": "伊朗称对霍尔木兹海峡航运实施全面管理",
@@ -224,15 +225,70 @@
           "time_info": "[13时26分 ~ 17时17分]"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：在格什姆岛和阿巴斯港听到的声响，是因销毁战争遗留爆炸物所致。",
+          "url": "https://flash.jin10.com/detail/20260531190212564800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队宣布，过去24小时内有28艘包括油轮、集装箱船及其他商船在获得许可后，经过伊朗海军的协调和安全保障，从霍尔木兹海峡通过。",
           "url": "https://flash.jin10.com/detail/20260531163534017800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗格什姆岛传出爆炸声。目前尚不清楚爆炸声响的性质和来源。",
+          "url": "https://flash.jin10.com/detail/20260531185930815800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "伊朗展示一款新型攻击艇",
+          "url": "https://wallstreetcn.com/livenews/3111922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "伊朗批准20种农产品及加工产品出口",
+          "url": "https://wallstreetcn.com/livenews/3111919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "伊朗议会议长：在确认伊朗人民权利得到保障前 不会批准任何协议",
+          "url": "https://wallstreetcn.com/livenews/3111918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社：伊朗议会主席团成员宣誓就职。仪式由议长卡利巴夫主持，187名代表在线参会，14名代表到场参会。",
@@ -241,9 +297,42 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗南帕尔斯气田的三个海上平台已恢复生产。",
+          "url": "https://flash.jin10.com/detail/20260531182835723800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "伊朗展示一款新型攻击艇",
+          "url": "https://flash.jin10.com/detail/20260531182711783800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "伊朗批准20种农产品及加工产品出口",
+          "url": "https://flash.jin10.com/detail/20260531180038627800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
@@ -266,13 +355,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：敌人企图通过施加经济压力和发动媒体战来煽动分裂，破坏国家凝聚力。",
+          "url": "https://flash.jin10.com/detail/20260531175240266800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
+          "url": "https://wallstreetcn.com/articles/3773514",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 19时45分]"
+        },
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
           "url": "https://wallstreetcn.com/articles/3773469",
@@ -319,16 +432,15 @@
           "time_info": "13时26分"
         },
         {
-          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
-          "url": "https://wallstreetcn.com/articles/3773514",
-          "source": "华尔街见闻",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-31）",
+          "url": "https://flash.jin10.com/detail/20260531191112757800",
+          "source": "金十数据",
           "ranks": [
-            8,
             4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 17时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "美国总统特朗普：我在沃尔特·里德军事医疗中心进行的体检结果刚刚发布，结果非常好。",
@@ -466,7 +578,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -506,6 +618,36 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek 在 2026.5.29 晚限制修改输入次数？",
+          "url": "https://www.zhihu.com/question/2043802300246915002",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
+          "url": "https://www.zhihu.com/question/2040472846393161206",
+          "source": "知乎",
+          "ranks": [
+            16,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时08分 ~ 08时09分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -534,25 +676,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时11分 ~ 17时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
-          "url": "https://www.zhihu.com/question/2040472846393161206",
-          "source": "知乎",
-          "ranks": [
-            16,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时08分 ~ 08时09分]"
         }
       ]
     },
