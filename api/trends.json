@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-06-04T05:27:13.662812+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-06-04T07:53:03.544070+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 32,
       "titles": [
-        {
-          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
-          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 05时27分]"
-        },
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
           "url": "https://wallstreetcn.com/articles/3773781",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 05时27分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时53分]"
+        },
+        {
+          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
+          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时53分]"
         },
         {
           "title": "特朗普任命房屋监管主管兼任情报总监",
@@ -40,6 +42,41 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时07分 ~ 05时27分]"
+        },
+        {
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时53分]"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
+        },
+        {
+          "title": "“离签署协议已非常接近”，特朗普披露美伊谈判细节",
+          "url": "https://news.ifeng.com/c/8tfYHflwBeK",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
           "title": "美国国务卿卢比奥：总统特朗普将参加下周的北约（NATO）首脑会议。",
@@ -59,7 +96,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -86,16 +123,26 @@
           "time_info": "01时08分"
         },
         {
-          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
-          "url": "https://wallstreetcn.com/articles/3773725",
-          "source": "华尔街见闻",
+          "title": "特朗普欲将以黎冲突和美伊谈判“分开处理”",
+          "url": "https://wallstreetcn.com/livenews/3114010",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "美众议院通过决议限制特朗普对伊动武",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E5%86%B3%E8%AE%AE%E9%99%90%E5%88%B6%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E5%8A%A8%E6%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 05时27分]"
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
           "title": "特朗普计划拨款数亿美元，力推煤电厂建设及出口设施项目",
@@ -104,7 +151,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -115,7 +162,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -126,7 +173,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -137,7 +184,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -148,7 +195,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -159,7 +206,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -170,7 +217,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -181,7 +228,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -192,7 +239,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -203,9 +250,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "特朗普遭遇党内反弹：众议院投票叫停对伊战争",
+          "url": "https://flash.jin10.com/detail/20260604064111387800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "特朗普：我们已经清除了霍尔木兹的水雷，我们认为大部分水雷都已清除。",
@@ -214,9 +272,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "特朗普淡化霍尔木兹海峡水雷威胁，并鼓吹替代航线",
+          "url": "https://wallstreetcn.com/livenews/3114042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "特朗普：霍尔木兹海峡将在签署（协议）后立即开放。",
@@ -225,7 +294,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -247,7 +316,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -258,15 +327,48 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "特朗普称美伊协议可能在本周末达成",
+          "url": "https://flash.jin10.com/detail/20260604060822313800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://wallstreetcn.com/livenews/3114038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
+          "url": "https://wallstreetcn.com/livenews/3114035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -291,27 +393,39 @@
           "time_info": "[01时07分 ~ 05时27分]"
         },
         {
-          "title": "金十图示：2026年06月03日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260604003805317800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
           "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
           "url": "https://wallstreetcn.com/articles/3773769",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 05时27分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时53分]"
+        },
+        {
+          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
+        },
+        {
+          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
+          "url": "https://www.cls.cn/detail/2390139",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
           "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
@@ -322,8 +436,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 05时27分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时53分]"
+        },
+        {
+          "title": "金十图示：2026年06月03日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260604003805317800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
         },
         {
           "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
@@ -343,7 +468,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -354,7 +479,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -365,9 +490,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "周四亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.6%，道指期货涨0.1%。 科技股中，博通目前（美股盘后）跌12.9%，甲骨文跌4.7%，IBM跌3.8%，AMD跌2.6%，闪迪跌2.5%，美光跌2.4%，高通跌1.9%，苹果涨1.2%，C3.ai涨2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3114044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "Ci.ai第四财季营收0.516亿美元，分析师预期0.503亿美元。 第四财季调整后每股亏损0.33美元，分析师预期亏损0.37美元。 预计2027财年营收2.10亿-2.40亿美元，分析师预期2.282亿美元。 预计第一财季营收0.5亿-0.54亿美元，分析师预期0.527亿美元。 任命Thomas M. Siebel为首席执行官（CEO）。 C3.ai（AI）美股盘后涨10%。",
@@ -376,7 +512,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -387,7 +523,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -398,7 +534,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         }
@@ -406,7 +542,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
@@ -416,8 +552,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 05时27分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时53分]"
         },
         {
           "title": "伊朗最高领袖批准成立霍尔木兹海峡问题工作组",
@@ -448,7 +584,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -459,7 +595,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -473,6 +609,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "国际油价一度涨超2%，美军称伊朗在整个中东范围发动袭击",
+          "url": "https://wallstreetcn.com/articles/3773721",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
           "title": "科威特称伊朗袭击致63人受伤",
@@ -497,6 +644,17 @@
           "time_info": "01时08分"
         },
         {
+          "title": "美国国务院：各方谴责伊朗对该地区国家的攻击。",
+          "url": "https://flash.jin10.com/detail/20260604071327641800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：我方武装力量正对美国获准使用、用于袭击民用船只及破坏停火的相关目标实施自卫打击。 任何“敌对”行动都将遭到立即且果断的回应。",
           "url": "https://wallstreetcn.com/livenews/3113913",
           "source": "华尔街见闻-快讯",
@@ -508,13 +666,24 @@
           "time_info": "01时08分"
         },
         {
+          "title": "伊朗外长：若以色列侵略贝鲁特 则将重新开战",
+          "url": "https://wallstreetcn.com/livenews/3114062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
           "title": "胡塞武装发表声明，重申支持伊朗维护自身权利",
           "url": "https://wallstreetcn.com/livenews/3113991",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -525,7 +694,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         }
@@ -533,7 +702,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌：推出新品“DreamBeans”",
@@ -589,12 +758,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
+          "url": "https://wallstreetcn.com/livenews/3114037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何评价 Codex 与 ChatGPT 两个独立 App 合并，这一举动有什么影响？",
@@ -602,11 +782,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 05时27分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时53分]"
         },
         {
           "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
@@ -629,6 +810,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "OpenAI打算整合CodeX与ChatGPT。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3114043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         }
       ]
     },
@@ -645,8 +837,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 05时27分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时53分]"
         },
         {
           "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
@@ -657,8 +849,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 05时27分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时53分]"
         }
       ]
     },
@@ -671,11 +863,12 @@
           "url": "https://www.toutiao.com/trending/7646967437870747187/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 05时27分]"
+          "appearance_count": 4,
+          "time_info": "[05时26分 ~ 07时53分]"
         }
       ]
     },
@@ -690,7 +883,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         }
@@ -707,7 +900,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         }
