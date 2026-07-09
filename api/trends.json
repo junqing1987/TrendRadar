@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T16:35:54.297007+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2026-07-09T20:13:51.485904+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 70,
+      "match_count": 82,
       "titles": [
         {
           "title": "战火重燃，伊朗革命卫队处境艰难",
@@ -111,6 +111,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "伊朗向美军事基地发射导弹",
+          "url": "https://wallstreetcn.com/livenews/3131352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "据伊朗国家电视台：伊朗阿布穆萨岛附近传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260709045451077800",
           "source": "金十数据",
@@ -161,7 +172,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -177,15 +188,37 @@
           "time_info": "05时18分"
         },
         {
+          "title": "英国外交大臣：伊朗意图将霍尔木兹海峡当做自己的筹码。",
+          "url": "https://flash.jin10.com/detail/20260709200819907800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "伊朗：美军周四的袭击在伊朗东部击中两座桥梁。",
           "url": "https://wallstreetcn.com/livenews/3131200",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "伊朗称美军空袭布什尔省已致3人死亡",
+          "url": "https://wallstreetcn.com/livenews/3131349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "伊朗副外长：美国要求以不符合谅解备忘录的方式恢复霍尔木兹海峡南部通道，伊朗无法接受，美国近期敌对行动将受到回应。",
@@ -208,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "伊朗阿巴斯港传出多次爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3131348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
@@ -259,6 +303,19 @@
           "time_info": "[05时18分 ~ 07时18分]"
         },
         {
+          "title": "美军称再次对伊朗发起打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 20时13分]"
+        },
+        {
           "title": "美军对伊朗发动新一轮打击，伊朗称将很快反击，美伊为何突然再次撕破脸？美方军事行动背后有何盘算？",
           "url": "https://www.zhihu.com/question/2058455554222027217",
           "source": "知乎",
@@ -267,20 +324,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 16时35分]"
-        },
-        {
-          "title": "美军称再次对伊朗发起打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 16时35分]"
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 20时13分]"
         },
         {
           "title": "据伊朗努尔新闻(Nour News)：消息人士称，美国对布什尔地区的袭击未对核电站造成任何损害。",
@@ -459,6 +504,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "英国外交大臣：伊朗必须放弃对航运路线的控制主张。",
+          "url": "https://flash.jin10.com/detail/20260709200044241800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "报道：伊朗袭击位于科威特和巴林的美军基地",
           "url": "https://wallstreetcn.com/livenews/3131061",
           "source": "华尔街见闻-快讯",
@@ -501,6 +557,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "美军驻约旦基地遭伊朗袭击",
+          "url": "https://wallstreetcn.com/livenews/3131336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "伊朗外交部长：我们不会以粗俗回应粗俗，而是以行动作出回应。",
@@ -679,6 +746,17 @@
           "time_info": "01时49分"
         },
         {
+          "title": "【伊朗媒体：布什尔核电站周边区域遭美军袭击】伊朗媒体9日援引布什尔省副省长的话说，当日下午，布什尔省多地遭美军袭击，其中包括布什尔核电站周边区域。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3131324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "消息人士：巴基斯坦陆军司令阿西姆·穆尼尔正与伊朗方面展开接触，试图缓和伊朗与美国之间不断升级的紧张局势。",
           "url": "https://flash.jin10.com/detail/20260709025533023800",
           "source": "金十数据",
@@ -699,6 +777,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "伊朗革命卫队：美国恐怖主义军队的冒险行径及其对通行航线的干预，不仅将招致我们的毁灭性回应，还会严重扰乱逐步开放进程，并危及霍尔木兹海峡各使用国的利益。",
+          "url": "https://flash.jin10.com/detail/20260709195023082800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "据Axios：一名美国官员表示，美军正在对霍尔木兹海峡地区的伊朗军事目标实施打击。",
@@ -723,6 +812,17 @@
           "time_info": "12时04分"
         },
         {
+          "title": "伊朗革命卫队：我们正不断提升准许通过的船舶数量——这些船舶须严格遵守安全规定，从伊斯兰革命卫队海军获得通过伊朗伊斯兰共和国指定航道的许可。",
+          "url": "https://flash.jin10.com/detail/20260709195010372800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "周四亚太盘初，WTI原油期货高开2.2%，报75.13美元/桶，美国再次袭击伊朗。 美国三大股指期货跌超0.1%，罗素2000股指期货跌0.2%。",
           "url": "https://wallstreetcn.com/livenews/3130909",
           "source": "华尔街见闻-快讯",
@@ -745,15 +845,48 @@
           "time_info": "05时18分"
         },
         {
+          "title": "伊朗革命卫队：我们在过去两周内确立了对霍尔木兹海峡的管控并维护了其安全，现已逐步重新开放航道，将通航能力恢复至战前水平的约50%。",
+          "url": "https://flash.jin10.com/detail/20260709195002222800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "伊朗革命卫队：外国势力在霍尔木兹海峡不会得到任何利益份额。",
+          "url": "https://flash.jin10.com/detail/20260709194941104800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "伊朗外交部：外交部重申伊朗坚定捍卫国家主权和领土完整，并将惩处侵略者。德黑兰不会允许“美国”的交易违约、霸凌和卑劣行为影响伊朗的国家利益。",
           "url": "https://flash.jin10.com/detail/20260709160900322800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "伊朗布什尔核电站周边遭到美国炮弹袭击。（伊朗国家媒体）",
+          "url": "https://wallstreetcn.com/livenews/3131315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "伊朗称美军袭击造成8名伊朗军人死亡",
@@ -792,7 +925,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
@@ -843,6 +976,35 @@
           "time_info": "[01时48分 ~ 07时18分]"
         },
         {
+          "title": "特朗普称“今夜可能再打伊朗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            11,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时48分 ~ 20时13分]"
+        },
+        {
+          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
+          "url": "https://wallstreetcn.com/articles/3776487",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时17分 ~ 20时13分]"
+        },
+        {
           "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
           "url": "https://www.cls.cn/detail/2420443",
           "source": "财联社热门",
@@ -863,21 +1025,6 @@
             11,
             7,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时48分 ~ 16时35分]"
-        },
-        {
-          "title": "特朗普称“今夜可能再打伊朗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16,
-            11,
-            9
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -908,18 +1055,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时48分 ~ 03时48分]"
-        },
-        {
-          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
-          "url": "https://wallstreetcn.com/articles/3776487",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时17分 ~ 16时35分]"
         },
         {
           "title": "美国总统特朗普 8 日在北约峰会上说，他认为美伊谅解备忘录「已终结」，这意味着什么？",
@@ -955,6 +1090,18 @@
           "time_info": "[01时48分 ~ 05时18分]"
         },
         {
+          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
+          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 20时13分]"
+        },
+        {
           "title": "美国总统特朗普：我确实与西班牙有过矛盾，现在仍然有。但今天西班牙非常慷慨，满足了许多付款要求。",
           "url": "https://flash.jin10.com/detail/20260709070145520800",
           "source": "金十数据",
@@ -964,18 +1111,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        },
-        {
-          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
-          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 16时35分]"
         },
         {
           "title": "特朗普要求切断美国与西班牙贸易往来，如何看待这一举动？",
@@ -1124,6 +1259,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "美国贸易代表格里尔：特朗普希望与墨西哥的贸易逆差减少。",
+          "url": "https://flash.jin10.com/detail/20260709200624666800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "美国总统特朗普：欧洲想在伊朗问题上提供帮助。",
           "url": "https://wallstreetcn.com/livenews/3130926",
           "source": "华尔街见闻-快讯",
@@ -1245,6 +1391,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "美国总统特朗普：我尚未决定是否从欧洲撤军。这在很大程度上取决于格陵兰岛和伊朗的情况。",
           "url": "https://flash.jin10.com/detail/20260709064738046800",
           "source": "金十数据",
@@ -1284,7 +1441,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -1405,7 +1562,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -1424,7 +1581,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
@@ -1455,11 +1612,12 @@
           "url": "https://wallstreetcn.com/articles/3776425",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 16时35分]"
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 20时13分]"
         },
         {
           "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
@@ -1496,13 +1654,24 @@
           "time_info": "[12时04分 ~ 16时35分]"
         },
         {
+          "title": "海力士美股IPO点燃AI热情，美光盘前涨3%、康宁涨5%，韩股弱势反弹，黄金触及4100",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "美股盘前，明星科技股多数反弹，美光科技涨超3%，英特尔涨超3%，康宁涨超5%；阿里巴巴盘前涨近1%。",
           "url": "https://wallstreetcn.com/livenews/3131190",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -1568,7 +1737,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -1720,7 +1889,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         }
