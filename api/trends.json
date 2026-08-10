@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T05:52:22.876097+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-11T06:50:04.566518+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 06时50分]"
         },
         {
           "title": "特朗普称要向伊朗索赔",
@@ -26,19 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗已经“囊中羞涩”，在约300%的通胀背景下无力给士兵发放军饷。",
-          "url": "https://wallstreetcn.com/livenews/3147708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 06时50分]"
         },
         {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
@@ -48,8 +37,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 06时50分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗已经“囊中羞涩”，在约300%的通胀背景下无力给士兵发放军饷。",
+          "url": "https://wallstreetcn.com/livenews/3147708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时50分]"
         },
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
@@ -59,8 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 06时50分]"
         },
         {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
@@ -70,8 +71,30 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 06时50分]"
+        },
+        {
+          "title": "特朗普称美军实际控制霍尔木兹并清除了水雷",
+          "url": "https://flash.jin10.com/detail/20260811055607188800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时52分"
+          "time_info": "06时50分"
+        },
+        {
+          "title": "特朗普称美军已“100%控制”霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3147719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         },
         {
           "title": "特朗普称自沃什履新以来仅与其短暂交谈一次 否认频繁沟通",
@@ -121,8 +144,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 06时50分]"
+        },
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
           "url": "https://wallstreetcn.com/articles/3779052",
@@ -133,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
+          "url": "https://www.cls.cn/detail/2450652",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 06时50分]"
         },
         {
           "title": "周一（8月10日），美股存储芯片与硬件供应链指数跌1.22%，报184.13点，美股盘初冲高回落，结束交易前30分钟内（再次）开启一波显著下跌的行情。 成分股Rambus收跌5.55%，泰瑞达跌3.75%，应用材料跌3.16%，美光科技、拉姆研究、希捷科技至少跌1.45%，西部数据收涨0.93%，闪迪涨2.12%。 此外，铠侠ADR跌4.01%，SK海力士ADR跌1.9%。",
@@ -214,30 +259,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 06时50分]"
         },
         {
           "title": "伊朗“圣城旅”指挥官到访巴格达 同伊拉克多方会晤",
           "url": "https://flash.jin10.com/detail/20260811045926051800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时50分]"
         },
         {
           "title": "伊朗“圣城旅”指挥官到访巴格达，同伊拉克多方会晤",
           "url": "https://wallstreetcn.com/livenews/3147698",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时50分]"
         },
         {
           "title": "德国外长瓦德富尔：在与伊朗外长阿拉格奇的通话中，我敦促伊朗与地区邻国和美国进行建设性谈判，以结束冲突。霍尔木兹海峡必须无条件开放，确保所有船只自由安全地航行。",
@@ -286,30 +333,49 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 06时50分]"
         },
         {
           "title": "据悉OpenAI回购70亿美元员工股份",
           "url": "https://flash.jin10.com/detail/20260811044344828800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时50分]"
         },
         {
           "title": "OpenAI回购70亿美元员工股份",
           "url": "https://wallstreetcn.com/livenews/3147697",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌AI团队告知求职者：其HR筛选系统不可靠",
+          "url": "https://wallstreetcn.com/livenews/3147721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时52分"
+          "time_info": "06时50分"
         }
       ]
     },
@@ -322,11 +388,12 @@
           "url": "https://wallstreetcn.com/livenews/3147700",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时50分]"
         }
       ]
     },
