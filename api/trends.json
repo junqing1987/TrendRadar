@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-08-11T19:54:14.452187+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2026-08-11T21:23:28.205516+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
           "url": "https://news.ifeng.com/c/8vUfY9eJoTT",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时18分 ~ 19时54分]"
+          "appearance_count": 9,
+          "time_info": "[10时18分 ~ 21时23分]"
         },
         {
           "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
           "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时18分 ~ 19时54分]"
+          "appearance_count": 9,
+          "time_info": "[10时18分 ~ 21时23分]"
         },
         {
           "title": "伊朗更强硬的强硬派来了",
@@ -38,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时18分 ~ 19时54分]"
+          "appearance_count": 9,
+          "time_info": "[10时18分 ~ 21时23分]"
         },
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -86,6 +88,17 @@
           "time_info": "10时18分"
         },
         {
+          "title": "伊朗外长：伊朗让美国幻想破灭",
+          "url": "https://wallstreetcn.com/livenews/3148079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "卡塔尔：阿曼与伊朗的谈判已进入“高级阶段”",
           "url": "https://flash.jin10.com/detail/20260811183346473800",
           "source": "金十数据",
@@ -95,17 +108,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
-        },
-        {
-          "title": "巴基斯坦内政部长抵达德黑兰进行会谈。（伊朗媒体MEHR）",
-          "url": "https://wallstreetcn.com/livenews/3148049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
         },
         {
           "title": "卡塔尔称阿曼与伊朗的会谈已进入深入阶段。（半岛电视台）",
@@ -130,6 +132,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时50分]"
+        },
+        {
+          "title": "巴基斯坦内政部长抵达德黑兰进行会谈。（伊朗媒体MEHR）",
+          "url": "https://wallstreetcn.com/livenews/3148049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 21时23分]"
         },
         {
           "title": "伊朗警告乌克兰不赔偿就动手",
@@ -217,6 +231,17 @@
           "time_info": "18时58分"
         },
         {
+          "title": "美国向一艘破坏其对伊朗封锁的船只开火。 美国周二早间向一艘悬挂巴拿马旗帜的船只开火。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3148075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "伊朗称美以是造成中东地区动荡根源",
           "url": "https://www.toutiao.com/trending/7671798549898657855/",
           "source": "今日头条",
@@ -245,7 +270,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -314,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
+          "url": "https://www.zhihu.com/question/2070450417981469090",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "伊朗副外长：对于伊朗及其沿岸国家而言，里海一直不仅仅是一片水域。纵观历史，里海始终是周边国家地理格局、民族认同及国家关系的重要组成部分，并在塑造地区各族群之间的关系方面发挥了重要作用。",
@@ -396,7 +432,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
@@ -421,8 +457,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时18分 ~ 19时54分]"
+          "appearance_count": 9,
+          "time_info": "[10时18分 ~ 21时23分]"
         },
         {
           "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
@@ -432,8 +468,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时59分 ~ 19时54分]"
+          "appearance_count": 7,
+          "time_info": "[13时59分 ~ 21时23分]"
         },
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -515,6 +551,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时18分 ~ 12时27分]"
+        },
+        {
+          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
+          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-11）",
@@ -702,7 +749,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -712,8 +759,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时43分 ~ 19时54分]"
+          "appearance_count": 10,
+          "time_info": "[07时43分 ~ 21时23分]"
         },
         {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
@@ -764,6 +811,28 @@
           "time_info": "05时52分"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3148081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股期指走高，黄金冲高回落",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "美股收盘：芯片股、光通信概念重挫",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%8A%AF%E7%89%87%E8%82%A1%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E6%A6%82%E5%BF%B5%E9%87%8D%E6%8C%AB",
           "source": "百度热搜",
@@ -784,6 +853,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "Beyond Meat美股盘前一度跌近21%，公司董事会批准按1:30比例进行反向股票分割",
+          "url": "https://wallstreetcn.com/livenews/3148059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "美股大类资产类ETF多数收跌，布油基金涨约6.8%",
@@ -839,6 +919,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "雅培与谷歌推出首个合作项目，借助血糖洞察和人工智能改变日常健康管理。",
+          "url": "https://flash.jin10.com/detail/20260811210808524800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "雅培：与谷歌多年合作将雅培的Lingo生物可穿戴设备的血糖观察与谷歌健康技术相结合。",
+          "url": "https://flash.jin10.com/detail/20260811210739634800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "雅培：与谷歌的合作包括大规模研究，以更好地指导人工智能培训。",
+          "url": "https://flash.jin10.com/detail/20260811210715702800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "谷歌AI团队告知求职者：其HR筛选系统不可靠",
+          "url": "https://wallstreetcn.com/livenews/3147721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 07时43分]"
         }
       ]
     },
@@ -934,11 +1065,12 @@
           "url": "https://wallstreetcn.com/livenews/3148048",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 21时23分]"
         },
         {
           "title": "DeepSeek会偷偷给人取外号",
@@ -954,20 +1086,19 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌AI团队告知求职者：其HR筛选系统不可靠",
-          "url": "https://wallstreetcn.com/livenews/3147721",
-          "source": "华尔街见闻-快讯",
+          "title": "30年美债冲上5%，市场担心的不是通胀失控",
+          "url": "https://flash.jin10.com/detail/20260811205409548800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            15
+            24
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时50分 ~ 07时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         }
       ]
     },
